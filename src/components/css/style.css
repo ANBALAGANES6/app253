@@ -66,6 +66,3 @@
     border-radius: 5px;
 }
 
-body:scroll(top: 50px) #myid  {
-background:#ff4081 !important;
-}
